@@ -1,2 +1,2 @@
 # Duojay-Williams
-My Profile Readme
+I'm a software engineer proficient in various programming languages, including JavaScript, HTML, CSS, C#, and Unity for game development. My expertise spans both frontend and backend development. In addition to my technical skills, I'm a multi-passionate individual with a love for playing the piano, coding, and animation. I'm on a perpetual journey of learning and self-improvement, akin to leveling up my character stats 🎮
